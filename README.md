@@ -106,10 +106,6 @@ I like to:
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white" alt="Goodot Badge"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username={nicodalfonso}&theme=blue-green" alt="Goodot Badge"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={nicodalfonso}&theme=blue-green" alt="Goodot Badge"/>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white" alt="Goodot Badge"/>
-
 <!--
 **nicodalfonso/nicodalfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
